@@ -1,8 +1,7 @@
 ## TWINKLE LIGHT FASHION 
 
-You can use the [editor on GitHub](https://github.com/Sainaung1995/tkl/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Yangon,Hlaing Thar Yar Township,
 
 ### Markdown
 
